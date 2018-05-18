@@ -7,5 +7,5 @@ class StaticPagesController < ApplicationController
 
   def genres; end
 
-  def country ; end
+  def country; end
 end
